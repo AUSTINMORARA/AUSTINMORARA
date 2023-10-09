@@ -1,4 +1,7 @@
 ### Hello there 👋
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 - 👋 I'm Austin, from Nairobi, Kenya.
 - 🔭 I’m currently studying at ALX Africa.
 - 🌱 Currently, I'm learning C programming and Python.
